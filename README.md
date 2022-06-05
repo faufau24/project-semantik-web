@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Project Akhir Semantik Web
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Web Pencarian Data Mahasiswa Magang PMMB BATCH 1 di PT WIKA
 
-In the project directory, you can run:
+Dibuat oleh
+Muhammad Alwan Fauzi  
+140810190077
+Kelas A
+
+Cara Penggunaan Website
 
 ### `npm start`
 
