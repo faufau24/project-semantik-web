@@ -1,0 +1,481 @@
+        @prefix data: <https://ptwijayakarya-my.sharepoint.com/#> .
+        @prefix id: <https://ptwijayakarya-my.sharepoint.com/i#> .
+        @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+        id:1 
+                data:no                 1;
+                data:nama              "Muhammad Reza Utama Pulungan";
+                data:jeniskelamin      "Laki-Laki";
+                data:jurusan           "Sistem Informasi";
+                data:semester          "8";
+                data:NoHP              "082165653561";
+                data:email             "mrezautamapulungan@gmail.com";
+                data:unitkerja         "Divisi Human Capital";
+                data:universitas       "UNIVERSITAS BRAWIJAYA";
+                .
+                
+        id:2 
+                data:no                 2;
+                data:nama              "Galih Agung Sukmawan";
+                data:jeniskelamin      "Laki-Laki";
+                data:jurusan           "Teknik Informatika";
+                data:semester          "8";
+                data:NoHP              "081287268906";
+                data:email             "galihagungsukmawan@gmail.com";
+                data:unitkerja         "Divisi Engineering";
+                data:universitas       "UNIVERSITAS BRAWIJAYA";
+                .
+                
+        id:3 
+                data:no                 3;
+                data:nama              "Ilmalia Hartina";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Sistem Informasi";
+                data:semester          "8";
+                data:NoHP              "085701096852";
+                data:email             "ilmaliahartina99@gmail.com";
+                data:unitkerja         "Departemen Sistem Informasi";
+                data:universitas       "STMIK NUSA MANDIRI";
+                .
+                
+        id:4 
+                data:no                 4;
+                data:nama              "Valisha Zalfa Vireka";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085881725508";
+                data:email             "valishazalfa@gmail.com";
+                data:unitkerja         "Divisi Engineering";
+                data:universitas       "INSTITUT TEKNOLOGI SEPULUH NOPEMBER";
+                .
+                
+        id:5 
+                data:no                 5;
+                data:nama              "Anisya Purwandari";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085695011542";
+                data:email             "ichanisyapurwandari@gmail.com";
+                data:unitkerja         "Divisi Engineering";
+                data:universitas       "UNIVERSITAS INDONESIA";
+                .
+                
+        id:6 
+                data:no                 6;
+                data:nama              "Kevin Yoseph Manuel";
+                data:jeniskelamin      "Laki-Laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085727466505";
+                data:email             "manuelyoseph29@gmail.com";
+                data:unitkerja         "Divisi Engineering";
+                data:universitas       "UNIVERSITAS INDONESIA";
+                .
+                
+        id:7 
+                data:no                 7;
+                data:nama              "Muhammad Alwan Fauzi";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Informatika";
+                data:semester          "6";
+                data:NoHP              "081284033316";
+                data:email             "faufau241@gmail.com";
+                data:unitkerja         "Divisi Engineering";
+                data:universitas       "UNIVERSITAS PADJADJARAN";
+                .
+
+        id:8 
+                data:no                 8;
+                data:nama              "Annisa Ramadhani Putri";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Akuntansi";
+                data:semester          "6";
+                data:NoHP              "089629729014";
+                data:email             "annisaramadhaniputri6@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 1";
+                data:universitas       "UNIVERSITAS NASIONAL";
+                .
+
+        id:9 
+                data:no                 9;
+                data:nama              "Alhilal Mohammad Farhan";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "081224946341";
+                data:email             "alhilal.m.farhan89@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 1";
+                data:universitas       "UNIVERSITAS ISLAM INDONESIA";
+                .
+                        
+        id:10 
+                data:no                 10;
+                data:nama              "Irfanto Febriansya";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Rekayasa Keselamatan Kebakaran";
+                data:semester          "8";
+                data:NoHP              "089614031965";
+                data:email             "irfantof2@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 1";
+                data:universitas       "UNIVERSITAS NEGERI JAKARTA";
+                .
+
+        id:11 
+                data:no                 11;
+                data:nama              "Dio Arya Erlangga";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "089656376668";
+                data:email             "dioaryaa@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "UNIVERSITAS INDONESIA";
+                .
+
+        id:12 
+                data:no                 12;
+                data:nama              "Aprilia Ayu Ashari";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Akuntansi";
+                data:semester          "8";
+                data:NoHP              "089508752311";
+                data:email             "cantickaprilia12@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "UNIVERSITAS DR. SOETOMO";
+                .
+
+        id:13 
+                data:no                 13;
+                data:nama              "Radix Dwi Wardhana";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085256803892";
+                data:email             "radixdwiwardhana01@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "UNIVERSITAS HASANUDDIN";
+                .
+
+        id:14 
+                data:no                 14;
+                data:nama              "Valdy Yosua Yudistira Pakpahan";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "082249842236";
+                data:email             "paldipakpahan@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "UNIVERSITAS HASANUDDIN";
+                .
+
+        id:15 
+                data:no                 15;
+                data:nama              "Muhammad Alfhat";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085348217779";
+                data:email             "muhammadalfhat05@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:16 
+                data:no                 16;
+                data:nama              "Wulandari Sangla";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085241922334";
+                data:email             "wulandarisangka@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:17 
+                data:no                 17;
+                data:nama              "Charlie Efrein";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "089637414420";
+                data:email             "efreincharlie@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:18 
+                data:no                 18;
+                data:nama              "Muhammad Fiqih Hidayat";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "082189048880";
+                data:email             "muh.fiqih.hidayat@gmail.com";
+                data:unitkerja         "Divisi Infrastruktur 2";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:19 
+                data:no                 19;
+                data:nama              "Muhammad Rafi Athallah";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "082189048880";
+                data:email             "rafiathallah04@gmail.com";
+                data:unitkerja         "Departemen Industrial Plant";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:20 
+                data:no                 20;
+                data:nama              "Virlliana Andiriani";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "089643567246";
+                data:email             "virllianaandiriani2001@gmail.com";
+                data:unitkerja         "Divisi Power dan Energi";
+                data:universitas       "INSTITUT TEKNOLOGI BANDUNG";
+                .
+
+        id:21 
+                data:no                 21;
+                data:nama              "Istikomah";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Akuntansi";
+                data:semester          "6";
+                data:NoHP              "085878258650";
+                data:email             "komahisti237@gmail.com";
+                data:unitkerja         "Divisi Power dan Energi";
+                data:universitas       "UNIVERSITAS SEBELAS MARET SURAKARTA";
+                .
+
+        id:22 
+                data:no                 22;
+                data:nama              "Muhammad Ade Putra";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Mesin";
+                data:semester          "12";
+                data:NoHP              "08965365084";
+                data:email             "muh.adeptr@gmail.com";
+                data:unitkerja         "Divisi Power dan Energi";
+                data:universitas       "UNIVERSITAS HASANUDDIN";
+                .
+
+        id:23 
+                data:no                 23;
+                data:nama              "Fuad Shafwan";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Desain Komunikasi Visual";
+                data:semester          "6";
+                data:NoHP              "089509723162";
+                data:email             "fuadshafwan59@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "";
+                .
+
+        id:24 
+                data:no                 24;
+                data:nama              "Rahadyan Pandu Admara";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Sistem Informasi";
+                data:semester          "8";
+                data:NoHP              "089639535686";
+                data:email             "pandu.admara22@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "Wijaya Karya Bangunan Gedung";
+                .
+
+        id:25 
+                data:no                 25;
+                data:nama              "Gusti Achmad Syah";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Sistem Informasi";
+                data:semester          "8";
+                data:NoHP              "081389683843";
+                data:email             "gustiasyah75@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "POLITEKNIK STMI JAKARTA";
+                .
+
+        id:26 
+                data:no                 26;
+                data:nama              "Fauzhan Firmansyah";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Psikologi";
+                data:semester          "8";
+                data:NoHP              "081380011617";
+                data:email             "fauzhan.firm@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "UNIVERSITAS NEGERI JAKARTA";
+                .
+
+        id:27 
+                data:no                 27;
+                data:nama              "Muhammad Fahmi Zain";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "081770412678";
+                data:email             "fahmizain.mfz@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "UNIVERSITAS DIPONEGORO";
+                .
+
+        id:28 
+                data:no                 28;
+                data:nama              "Taufik Hidayat";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "088298974321";
+                data:email             "taufik2211hidayat@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "UNIVERSITAS TELKOM";
+                .
+
+        id:29 
+                data:no                 29;
+                data:nama              "Yogi Kala'linggi";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "085391930565";
+                data:email             "ogikalalinggi@gmail.com";
+                data:unitkerja         "Wijaya Karya Bangunan Gedung";
+                data:universitas       "UNIVERSITAS TELKOM";
+                .
+
+        id:30
+                data:no                 30;
+                data:nama              "Yusril Ramadhan";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "082193179702";
+                data:email             "yusrilramadhan.civileng@gmail.com";
+                data:unitkerja         "Wijaya Karya Beton";
+                data:universitas       "UNIVERSITAS HASANUDDIN";
+                .
+
+        id:31
+                data:no                 31;
+                data:nama              "Bimo Aldimas Sudrajat";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Akuntansi";
+                data:semester          "8";
+                data:NoHP              "082215707572";
+                data:email             "bimo.aldimas@gmail.com";
+                data:unitkerja         "Wijaya Karya Beton";
+                data:universitas       "UNIVERSITAS AIRLANGGA";
+                .
+
+        id:32
+                data:no                 32;
+                data:nama              "Putri Maudi Anggraeni";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Akuntansi";
+                data:semester          "6";
+                data:NoHP              "08970762067";
+                data:email             "putrimaudi6600@gmail.com";
+                data:unitkerja         "Wijaya Karya Beton";
+                data:universitas       "UNIVERSITAS SERANG RAYA";
+                .
+
+        id:33
+                data:no                 33;
+                data:nama              "Indhira Paramitasar";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Administrasi Perpajakan";
+                data:semester          "6";
+                data:NoHP              "085963159322";
+                data:email             "indhiraparamitasari@gmail.com";
+                data:unitkerja         "Wijaya Karya Beton";
+                data:universitas       "UNIVERSITAS BRAWIJAYA";
+                .
+
+        id:34
+                data:no                 34;
+                data:nama              "Dita Berliana Sandyah";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Akuntansi Keuangan";
+                data:semester          "8";
+                data:NoHP              "081298836746";
+                data:email             "ditaberliana8600@gmail.com";
+                data:unitkerja         "Wijaya Karya Beton";
+                data:universitas       "IKPIA PERBANAS";
+                .
+        id:35
+                data:no                 35;
+                data:nama              "Rizki Riansya";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Sipil";
+                data:semester          "8";
+                data:NoHP              "087783275270";
+                data:email             "hamidaida49@gmail.com";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS BATURAJA";
+                .
+        id:36
+                data:no                 36;
+                data:nama              "Hamida";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Administrasi Perkantoran dan Sekretari";
+                data:semester          "8";
+                data:NoHP              "087783275270";
+                data:email             "hamidaida49@gmail.com";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS NEGERI JAKARTA";
+                .
+
+        id:37
+                data:no                 37;
+                data:nama              "Dorina Azaria";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Manajemen";
+                data:semester          "6";
+                data:NoHP              "081310105047";
+                data:email             "dorinaazaria@gmail.com";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS SEBELAS MARET SURAKARTA";
+                .
+        id:38
+                data:no                 38;
+                data:nama              "Jane Onyinyechukwu Obodo";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Keselamatan dan Kesehatan Kerja";
+                data:semester          "6";
+                data:NoHP              "085723987737";
+                data:email             "jane.onyinyechukwu@ui.ac.id";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS INDONESIA";
+                . 
+
+        id:39
+                data:no                 39;
+                data:nama              "La Ode Khairul Zikri";
+                data:jeniskelamin      "Perempuan";
+                data:jurusan           "Ilmu Kesehatan Masyarakat";
+                data:semester          "6";
+                data:NoHP              "085860061606";
+                data:email             "lkzikri@gmail.com";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS INDONESIA";
+                .
+
+        id:40
+                data:no                 40;
+                data:nama              "Agung Prasojo";
+                data:jeniskelamin      "Laki-laki";
+                data:jurusan           "Teknik Geologi";
+                data:semester          "8";
+                data:NoHP              "0895635255488";
+                data:email             "56prass.agung@gmail.com";
+                data:unitkerja         "Wijaya Karya Bitumen";
+                data:universitas       "UNIVERSITAS HASANUDDIN";
+                .
+
